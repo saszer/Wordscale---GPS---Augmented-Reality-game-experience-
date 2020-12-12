@@ -20,6 +20,7 @@ public class PlacementManager : MonoBehaviour
     }
 
     // Update is called once per frame
+    //change isisiis
     void Update()
     {
         List<ARRaycastHit> hitpoint = new List<ARRaycastHit>();
